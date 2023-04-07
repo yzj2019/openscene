@@ -7,4 +7,4 @@ imageio
 plyfile
 opencv-python
 sharedarray
-git+https://github.com/openai/CLIP.git
+# git+https://github.com/openai/CLIP.git
